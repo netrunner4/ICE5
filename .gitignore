@@ -1,0 +1,6 @@
+.idea
+venv
+# bot token
+token.txt
+# bot logs
+logs
